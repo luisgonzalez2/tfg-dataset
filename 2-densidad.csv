@@ -1,0 +1,192 @@
+Tipo_Agrupacion;ID_Agrupacion;Nombre_Agrupacion;Valor_Agrupacion
+Comunidad de Madrid;0;Comunidad de Madrid;855,68
+Zonas Estadísticas;1;Municipio de Madrid ;5521,13
+Zonas Estadísticas;2;Norte Metropolitano ;853,7
+Zonas Estadísticas;3;Este Metropolitano  ;1648,09
+Zonas Estadísticas;4;Sur Metropolitano   ;1786,39
+Zonas Estadísticas;5;Oeste Metropolitano ;1053,05
+Zonas Estadísticas;6;Sierra Norte        ;34,59
+Zonas Estadísticas;7;Nordeste Comunidad  ;177,92
+Zonas Estadísticas;8;Sudeste Comunidad   ;79,83
+Zonas Estadísticas;9;Sudoeste Comunidad  ;259,91
+Zonas Estadísticas;10;Sierra Sur          ;53,02
+Zonas Estadísticas;11;Sierra Central      ;234,62
+Municipios;14;Acebeda (La);3,06
+Municipios;29;Ajalvir;246,21
+Municipios;35;Alameda del Valle;10,68
+Municipios;40;Alamo (El);467,88
+Municipios;53;Alcalá de Henares;2254,21
+Municipios;66;Alcobendas;2639,08
+Municipios;72;Alcorcón;5144,2
+Municipios;88;Aldea del Fresno;65,93
+Municipios;91;Algete;551,67
+Municipios;105;Alpedrete;1219,57
+Municipios;112;Ambite;26,72
+Municipios;127;Anchuelo;63,81
+Municipios;133;Aranjuez;322,45
+Municipios;148;Arganda del Rey;729,87
+Municipios;151;Arroyomolinos;1734,84
+Municipios;164;Atazar (El);3,66
+Municipios;170;Batres;87,98
+Municipios;186;Becerril de la Sierra;211,29
+Municipios;199;Belmonte de Tajo;76,46
+Municipios;210;Berrueco (El);28,88
+Municipios;203;Berzosa del Lozoya;14,97
+Municipios;225;Boadilla del Monte;1361,02
+Municipios;231;Boalo (El);210,04
+Municipios;246;Braojos;8,5
+Municipios;259;Brea de Tajo;12,27
+Municipios;262;Brunete;223,37
+Municipios;278;Buitrago del Lozoya;75,24
+Municipios;284;Bustarviejo;48,97
+Municipios;297;Cabanillas de la Sierra;67,8
+Municipios;301;Cabrera (La);130,78
+Municipios;318;Cadalso de los Vidrios;67,22
+Municipios;323;Camarma de Esteruelas;221,02
+Municipios;339;Campo Real;108,57
+Municipios;344;Canencia;8,56
+Municipios;357;Carabaña;47,95
+Municipios;360;Casarrubuelos;767,6
+Municipios;376;Cenicientos;30,58
+Municipios;382;Cercedilla;213,98
+Municipios;395;Cervera de Buitrago;14,2
+Municipios;513;Chapinería;101,64
+Municipios;528;Chinchón;48,93
+Municipios;409;Ciempozuelos;519,78
+Municipios;416;Cobeña;370,11
+Municipios;468;Collado Mediano;336,02
+Municipios;474;Collado Villalba;2627,28
+Municipios;455;Colmenar Viejo;301,13
+Municipios;437;Colmenar de Oreja;69,21
+Municipios;421;Colmenar del Arroyo;39,63
+Municipios;442;Colmenarejo;306,51
+Municipios;480;Corpa;30,66
+Municipios;493;Coslada;6662,18
+Municipios;506;Cubas de la Sagra;527,67
+Municipios;534;Daganzo de Arriba;244,04
+Municipios;549;Escorial (El);246,7
+Municipios;552;Estremera;18,3
+Municipios;565;Fresnedillas de la Oliva;63,3
+Municipios;571;Fresno de Torote;78,92
+Municipios;587;Fuenlabrada;4827,52
+Municipios;590;Fuente el Saz de Jarama;218,87
+Municipios;604;Fuentidueña de Tajo;37,52
+Municipios;611;Galapagar;541,05
+Municipios;626;Garganta de los Montes;10,38
+Municipios;632;Gargantilla del Lozoya y Pinilla de Buitrago;16,03
+Municipios;647;Gascones;11,32
+Municipios;650;Getafe;2383,09
+Municipios;663;Griñón;619,82
+Municipios;679;Guadalix de la Sierra;112,97
+Municipios;685;Guadarrama;298,02
+Municipios;698;Hiruela (La);4,31
+Municipios;702;Horcajo de la Sierra-Aoslos;11,03
+Municipios;719;Horcajuelo de la Sierra;4,53
+Municipios;724;Hoyo de Manzanares;198,3
+Municipios;730;Humanes de Madrid;1007,31
+Municipios;745;Leganés;4415,58
+Municipios;758;Loeches;206,38
+Municipios;761;Lozoya;10,73
+Municipios;9015;Lozoyuela-Navas-Sieteiglesias;28,62
+Municipios;783;Madarcos;8,41
+Municipios;796;Madrid;5521,13
+Municipios;800;Majadahonda;1892,26
+Municipios;822;Manzanares el Real;73,52
+Municipios;838;Meco;442,09
+Municipios;843;Mejorada del Campo;1344,46
+Municipios;856;Miraflores de la Sierra;123,83
+Municipios;869;Molar (El);194,8
+Municipios;875;Molinos (Los);252,45
+Municipios;881;Montejo de la Sierra;11,77
+Municipios;894;Moraleja de Enmedio;176,53
+Municipios;908;Moralzarzal;323,83
+Municipios;915;Morata de Tajuña;178,4
+Municipios;920;Móstoles;4682,94
+Municipios;936;Navacerrada;100,92
+Municipios;941;Navalafuente;137,16
+Municipios;954;Navalagamella;39,73
+Municipios;967;Navalcarnero;316,73
+Municipios;973;Navarredonda y San Mamés;5,37
+Municipios;992;Navas del Rey;64,19
+Municipios;1006;Nuevo Baztán;354,17
+Municipios;1013;Olmeda de las Fuentes;24,49
+Municipios;1028;Orusco de Tajuña;66,51
+Municipios;1049;Paracuellos de Jarama;617,07
+Municipios;1065;Parla;5317,93
+Municipios;1071;Patones;16,14
+Municipios;1087;Pedrezuela;223,85
+Municipios;1090;Pelayos de la Presa;391,28
+Municipios;1104;Perales de Tajuña;64,15
+Municipios;1111;Pezuela de las Torres;23,54
+Municipios;1126;Pinilla del Valle;8,02
+Municipios;1132;Pinto;889,54
+Municipios;1147;Piñuécar-Gandullas;9,75
+Municipios;1150;Pozuelo de Alarcón;2053,93
+Municipios;1163;Pozuelo del Rey;41,24
+Municipios;1179;Prádena del Rincón;6,66
+Municipios;1185;Puebla de la Sierra;1,8
+Municipios;9020;Puentes Viejas;12,94
+Municipios;1198;Quijorna;150,04
+Municipios;1202;Rascafría;11,64
+Municipios;1219;Redueña;23,39
+Municipios;1224;Ribatejada;28,53
+Municipios;1230;Rivas-Vaciamadrid;1485,57
+Municipios;1245;Robledillo de la Jara;6,37
+Municipios;1258;Robledo de Chavela;50,34
+Municipios;1261;Robregordo;4,3
+Municipios;1277;Rozas de Madrid (Las);1690,16
+Municipios;1283;Rozas de Puerto Real;19,53
+Municipios;1296;San Agustín del Guadalix;358,19
+Municipios;1300;San Fernando de Henares;1002,98
+Municipios;1317;San Lorenzo de El Escorial;328,4
+Municipios;1338;San Martín de Valdeiglesias;77,01
+Municipios;1322;San Martín de la Vega;192,73
+Municipios;1343;San Sebastián de los Reyes;1559,52
+Municipios;1356;Santa María de la Alameda;20,01
+Municipios;1369;Santorcaz;33,46
+Municipios;1375;Santos de la Humosa (Los);79,38
+Municipios;1381;Serna del Monte (La);19,2
+Municipios;1408;Serranillos del Valle;353,83
+Municipios;1415;Sevilla la Nueva;386,54
+Municipios;1436;Somosierra;4,16
+Municipios;1441;Soto del Real;219,39
+Municipios;1454;Talamanca de Jarama;113,55
+Municipios;1467;Tielmes;102,71
+Municipios;1473;Titulcia;134,71
+Municipios;1489;Torrejón de Ardoz;4266,66
+Municipios;1505;Torrejón de Velasco;90,86
+Municipios;1492;Torrejón de la Calzada;1137,12
+Municipios;1512;Torrelaguna;114,74
+Municipios;1527;Torrelodones;1157,43
+Municipios;1533;Torremocha de Jarama;60,47
+Municipios;1548;Torres de la Alameda;177,86
+Municipios;9036;Tres Cantos;1352,85
+Municipios;1551;Valdaracete;10,07
+Municipios;1564;Valdeavero;94,71
+Municipios;1570;Valdelaguna;24,69
+Municipios;1586;Valdemanco;60,28
+Municipios;1599;Valdemaqueda;15,83
+Municipios;1603;Valdemorillo;145,24
+Municipios;1610;Valdemoro;1270,53
+Municipios;1625;Valdeolmos-Alalpardo;175,3
+Municipios;1631;Valdepiélagos;35,54
+Municipios;1646;Valdetorres de Jarama;142,44
+Municipios;1659;Valdilecha;75,06
+Municipios;1662;Valverde de Alcalá;38,98
+Municipios;1678;Velilla de San Antonio;930,46
+Municipios;1684;Vellón (El);65,68
+Municipios;1697;Venturada;250,73
+Municipios;1718;Villa del Prado;93,82
+Municipios;1701;Villaconejos;104,9
+Municipios;1723;Villalbilla;483,87
+Municipios;1739;Villamanrique de Tajo;27,19
+Municipios;1744;Villamanta;43,98
+Municipios;1757;Villamantilla;66,17
+Municipios;1782;Villanueva de Perales;54,5
+Municipios;1760;Villanueva de la Cañada;674,76
+Municipios;1776;Villanueva del Pardillo;694,38
+Municipios;1795;Villar del Olmo;81,15
+Municipios;1809;Villarejo de Salvanés;64,79
+Municipios;1816;Villaviciosa de Odón;420,84
+Municipios;1821;Villavieja del Lozoya;13,6
+Municipios;1837;Zarzalejo;89,3

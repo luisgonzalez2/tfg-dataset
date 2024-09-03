@@ -1,0 +1,179 @@
+;Tipo_Agrupacion;ID_Agrupacion;Nombre_Agrupacion;Valor_Agrupacion;Cluster
+12;Municipios;14;Acebeda (La);55;0
+13;Municipios;29;Ajalvir;4793;0
+14;Municipios;35;Alameda del Valle;248;0
+15;Municipios;40;Alamo (El);9946;0
+16;Municipios;53;Alcalá de Henares;195570;1
+17;Municipios;66;Alcobendas;116895;2
+18;Municipios;72;Alcorcón;171575;1
+19;Municipios;88;Aldea del Fresno;3078;0
+20;Municipios;91;Algete;20704;0
+21;Municipios;105;Alpedrete;15178;0
+22;Municipios;112;Ambite;663;0
+23;Municipios;127;Anchuelo;1365;0
+24;Municipios;133;Aranjuez;60156;3
+25;Municipios;148;Arganda del Rey;56315;3
+26;Municipios;151;Arroyomolinos;33757;3
+27;Municipios;164;Atazar (El);109;0
+28;Municipios;170;Batres;1818;0
+29;Municipios;186;Becerril de la Sierra;6096;0
+30;Municipios;199;Belmonte de Tajo;1749;0
+31;Municipios;210;Berrueco (El);810;0
+32;Municipios;203;Berzosa del Lozoya;213;0
+33;Municipios;225;Boadilla del Monte;59000;3
+34;Municipios;231;Boalo (El);8006;0
+35;Municipios;246;Braojos;218;0
+36;Municipios;259;Brea de Tajo;529;0
+37;Municipios;262;Brunete;10699;0
+38;Municipios;278;Buitrago del Lozoya;1943;0
+39;Municipios;284;Bustarviejo;2706;0
+40;Municipios;297;Cabanillas de la Sierra;841;0
+41;Municipios;301;Cabrera (La);2776;0
+42;Municipios;318;Cadalso de los Vidrios;3227;0
+43;Municipios;323;Camarma de Esteruelas;7536;0
+44;Municipios;339;Campo Real;6435;0
+45;Municipios;344;Canencia;457;0
+46;Municipios;357;Carabaña;2168;0
+47;Municipios;360;Casarrubuelos;3950;0
+48;Municipios;376;Cenicientos;2078;0
+49;Municipios;382;Cercedilla;7315;0
+50;Municipios;395;Cervera de Buitrago;158;0
+51;Municipios;513;Chapinería;2493;0
+52;Municipios;528;Chinchón;5544;0
+53;Municipios;409;Ciempozuelos;25070;3
+54;Municipios;416;Cobeña;7424;0
+55;Municipios;468;Collado Mediano;7348;0
+56;Municipios;474;Collado Villalba;64297;3
+57;Municipios;455;Colmenar Viejo;52465;3
+58;Municipios;437;Colmenar de Oreja;8422;0
+59;Municipios;421;Colmenar del Arroyo;1879;0
+60;Municipios;442;Colmenarejo;9414;0
+61;Municipios;480;Corpa;742;0
+62;Municipios;493;Coslada;81388;2
+63;Municipios;506;Cubas de la Sagra;6607;0
+64;Municipios;534;Daganzo de Arriba;10528;0
+65;Municipios;549;Escorial (El);16681;0
+66;Municipios;552;Estremera;1379;0
+67;Municipios;565;Fresnedillas de la Oliva;1733;0
+68;Municipios;571;Fresno de Torote;2412;0
+69;Municipios;587;Fuenlabrada;192612;1
+70;Municipios;590;Fuente el Saz de Jarama;6868;0
+71;Municipios;604;Fuentidueña de Tajo;2223;0
+72;Municipios;611;Galapagar;34653;3
+73;Municipios;626;Garganta de los Montes;411;0
+74;Municipios;632;Gargantilla del Lozoya y Pinilla de Buitrago;348;0
+75;Municipios;647;Gascones;191;0
+76;Municipios;650;Getafe;183872;1
+77;Municipios;663;Griñón;10489;0
+78;Municipios;679;Guadalix de la Sierra;6597;0
+79;Municipios;685;Guadarrama;16583;0
+80;Municipios;698;Hiruela (La);73;0
+81;Municipios;702;Horcajo de la Sierra-Aoslos;169;0
+82;Municipios;719;Horcajuelo de la Sierra;106;0
+83;Municipios;724;Hoyo de Manzanares;8669;0
+84;Municipios;730;Humanes de Madrid;19685;0
+85;Municipios;745;Leganés;188687;1
+86;Municipios;758;Loeches;8916;0
+87;Municipios;761;Lozoya;599;0
+88;Municipios;9015;Lozoyuela-Navas-Sieteiglesias;1412;0
+89;Municipios;783;Madarcos;57;0
+91;Municipios;800;Majadahonda;72173;2
+92;Municipios;822;Manzanares el Real;9223;0
+93;Municipios;838;Meco;14960;0
+94;Municipios;843;Mejorada del Campo;23673;3
+95;Municipios;856;Miraflores de la Sierra;6588;0
+96;Municipios;869;Molar (El);9305;0
+97;Municipios;875;Molinos (Los);4599;0
+98;Municipios;881;Montejo de la Sierra;356;0
+99;Municipios;894;Moraleja de Enmedio;5336;0
+100;Municipios;908;Moralzarzal;13597;0
+101;Municipios;915;Morata de Tajuña;7908;0
+102;Municipios;920;Móstoles;208632;1
+103;Municipios;936;Navacerrada;3232;0
+104;Municipios;941;Navalafuente;1586;0
+105;Municipios;954;Navalagamella;2711;0
+106;Municipios;967;Navalcarnero;30696;3
+107;Municipios;973;Navarredonda y San Mamés;141;0
+108;Municipios;992;Navas del Rey;3058;0
+109;Municipios;1006;Nuevo Baztán;6678;0
+110;Municipios;1013;Olmeda de las Fuentes;365;0
+111;Municipios;1028;Orusco de Tajuña;1291;0
+112;Municipios;1049;Paracuellos de Jarama;26293;3
+113;Municipios;1065;Parla;130550;2
+114;Municipios;1071;Patones;523;0
+115;Municipios;1087;Pedrezuela;6168;0
+116;Municipios;1090;Pelayos de la Presa;2814;0
+117;Municipios;1104;Perales de Tajuña;3037;0
+118;Municipios;1111;Pezuela de las Torres;925;0
+119;Municipios;1126;Pinilla del Valle;196;0
+120;Municipios;1132;Pinto;53625;3
+121;Municipios;1147;Piñuécar-Gandullas;184;0
+122;Municipios;1150;Pozuelo de Alarcón;87080;2
+123;Municipios;1163;Pozuelo del Rey;1214;0
+124;Municipios;1179;Prádena del Rincón;148;0
+125;Municipios;1185;Puebla de la Sierra;75;0
+126;Municipios;9020;Puentes Viejas;716;0
+127;Municipios;1198;Quijorna;3589;0
+128;Municipios;1202;Rascafría;1762;0
+129;Municipios;1219;Redueña;295;0
+130;Municipios;1224;Ribatejada;863;0
+131;Municipios;1230;Rivas-Vaciamadrid;93272;2
+132;Municipios;1245;Robledillo de la Jara;97;0
+133;Municipios;1258;Robledo de Chavela;4485;0
+134;Municipios;1261;Robregordo;70;0
+135;Municipios;1277;Rozas de Madrid (Las);95294;2
+136;Municipios;1283;Rozas de Puerto Real;579;0
+137;Municipios;1296;San Agustín del Guadalix;13626;0
+138;Municipios;1300;San Fernando de Henares;39286;3
+139;Municipios;1317;San Lorenzo de El Escorial;18432;0
+140;Municipios;1338;San Martín de Valdeiglesias;8726;0
+141;Municipios;1322;San Martín de la Vega;19788;0
+142;Municipios;1343;San Sebastián de los Reyes;90958;2
+143;Municipios;1356;Santa María de la Alameda;1420;0
+144;Municipios;1369;Santorcaz;924;0
+145;Municipios;1375;Santos de la Humosa (Los);2742;0
+146;Municipios;1381;Serna del Monte (La);95;0
+147;Municipios;1408;Serranillos del Valle;4436;0
+148;Municipios;1415;Sevilla la Nueva;9387;0
+149;Municipios;1436;Somosierra;87;0
+150;Municipios;1441;Soto del Real;9075;0
+151;Municipios;1454;Talamanca de Jarama;4114;0
+152;Municipios;1467;Tielmes;2768;0
+153;Municipios;1473;Titulcia;1367;0
+154;Municipios;1489;Torrejón de Ardoz;133377;2
+155;Municipios;1505;Torrejón de Velasco;4586;0
+156;Municipios;1492;Torrejón de la Calzada;9537;0
+157;Municipios;1512;Torrelaguna;4902;0
+158;Municipios;1527;Torrelodones;24057;3
+159;Municipios;1533;Torremocha de Jarama;1065;0
+160;Municipios;1548;Torres de la Alameda;7707;0
+161;Municipios;9036;Tres Cantos;48726;3
+162;Municipios;1551;Valdaracete;614;0
+163;Municipios;1564;Valdeavero;1670;0
+164;Municipios;1570;Valdelaguna;1023;0
+165;Municipios;1586;Valdemanco;1022;0
+166;Municipios;1599;Valdemaqueda;792;0
+167;Municipios;1603;Valdemorillo;13254;0
+168;Municipios;1610;Valdemoro;77931;2
+169;Municipios;1625;Valdeolmos-Alalpardo;4306;0
+170;Municipios;1631;Valdepiélagos;619;0
+171;Municipios;1646;Valdetorres de Jarama;4705;0
+172;Municipios;1659;Valdilecha;3065;0
+173;Municipios;1662;Valverde de Alcalá;515;0
+174;Municipios;1678;Velilla de San Antonio;12542;0
+175;Municipios;1684;Vellón (El);2086;0
+176;Municipios;1697;Venturada;2392;0
+177;Municipios;1718;Villa del Prado;6775;0
+178;Municipios;1701;Villaconejos;3438;0
+179;Municipios;1723;Villalbilla;15046;0
+180;Municipios;1739;Villamanrique de Tajo;768;0
+181;Municipios;1744;Villamanta;2648;0
+182;Municipios;1757;Villamantilla;1515;0
+183;Municipios;1782;Villanueva de Perales;1608;0
+184;Municipios;1760;Villanueva de la Cañada;22453;3
+185;Municipios;1776;Villanueva del Pardillo;17266;0
+186;Municipios;1795;Villar del Olmo;2192;0
+187;Municipios;1809;Villarejo de Salvanés;7546;0
+188;Municipios;1816;Villaviciosa de Odón;28016;3
+189;Municipios;1821;Villavieja del Lozoya;280;0
+190;Municipios;1837;Zarzalejo;1771;0
